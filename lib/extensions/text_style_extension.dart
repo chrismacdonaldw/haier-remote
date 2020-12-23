@@ -9,7 +9,7 @@ extension TextStyleExtension on TextStyle {
   TextStyle weight(FontWeight c) => copyWith(fontWeight: c);
 
   // Font color
-  TextStyle color(Color c) => copyWith(color: c);
+  TextStyle textColor(Color c) => copyWith(color: c);
 
   // Weight shortcuts
   TextStyle get thin => weight(FontWeight.w100);
