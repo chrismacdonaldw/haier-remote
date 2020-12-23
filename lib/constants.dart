@@ -1797,3 +1797,5 @@ const List<int> R_NINE = [
   546,
   95212
 ];
+
+const String REMOTE_TITLE = 'Haier TV Remote';
