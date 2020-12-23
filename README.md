@@ -1,2 +1,3 @@
-# haier-remote
-A Flutter app that will hopefully be able to communicate with a specific Haier TV (for my sister)
+# haier_remote
+
+This is a project that uses Haier TV Configuration #27 to communicate with a Haier TV model via Infrared Blaster.
